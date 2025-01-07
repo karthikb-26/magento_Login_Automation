@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11756","Megnato valid Cred","Google Chrome","Tue Jan 07 18:22:20 IST 2025","passed","Tue Jan 07 18:22:32 IST 2025","Verifing Login with valid and invalid credentials","megnatoLogin.spec.js","",""
+"","8913","Megnato invalid Cred","Google Chrome","Tue Jan 07 18:22:32 IST 2025","passed","Tue Jan 07 18:22:41 IST 2025","Verifing Login with valid and invalid credentials","megnatoLogin.spec.js","",""

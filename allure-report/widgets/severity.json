@@ -1,0 +1,1 @@
+[{"uid":"6c175b79fc96c85a","name":"Megnato valid Cred","time":{"start":1736254340441,"stop":1736254352197,"duration":11756},"status":"passed","severity":"normal"},{"uid":"db8b6e3ae4e3b8bc","name":"Megnato invalid Cred","time":{"start":1736254352847,"stop":1736254361760,"duration":8913},"status":"passed","severity":"normal"}]

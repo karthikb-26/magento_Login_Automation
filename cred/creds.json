@@ -1,0 +1,11 @@
+{
+  "valid":{
+      "username":"jenner.seger@megasend.org",
+      "password":"@Password123"
+  },
+  "invalid":{
+      "username":"testautomation@gmail.com",
+      "password":"Password@123"
+  },
+  "url":"https://magento.softwaretestingboard.com/"
+}
